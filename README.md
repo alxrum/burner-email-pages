@@ -9,4 +9,4 @@ Static welcome, uninstall, and feedback pages for Burner Email.
 
 All three pages include the shared Umami page-analytics script. The extension itself contains no analytics.
 
-This is a local build. Google Forms IDs are intentionally empty until the separate publication/setup step; an unconnected form clearly says nothing was sent.
+Published on GitHub Pages from `main`. Google Forms IDs are currently empty because setup credentials are unavailable; the pages clearly state that feedback cannot be sent. No responses are collected until the forms are connected.
